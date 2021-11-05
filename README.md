@@ -7,7 +7,8 @@ Technical interview
 Using any of the following APIS:
 - [Deck of cards API](https://deckofcardsapi.com/) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/cards-api)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/spacex-api)
-- [Star Wars API](https://swapi.dev/) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/sw-api)
+- [PokeAPI](https://pokeapi.co/docs/v2) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/poke-api)
+- [S̵t̵a̵r̵ ̵W̵a̵r̵s̵ ̵A̵P̵I̵](https://swapi.dev/) | Option Not available
 
 Create a Wordpress Plugin that would connect to it. 🚀
 
@@ -20,7 +21,7 @@ Create a Wordpress Plugin that would connect to it. 🚀
 
 ### Metrics
 - Workload, estimated time to complete: 2-3 days | 8-12h (On an 4 hour schedule)
-- Estimated time of delivery: @2021-11-05T12:00:00.000Z
+- Estimated time of delivery: Will be anounced to each challenger.
 - Has knowledge of Rest APIS
 - Has experience in Wordpress Plugin Development
 
