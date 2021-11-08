@@ -8,7 +8,10 @@ Using any of the following APIS:
 - [Deck of cards API](https://deckofcardsapi.com/) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/cards-api)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/spacex-api)
 - [PokeAPI](https://pokeapi.co/docs/v2) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge--/tree/poke-api)
-- [S̵t̵a̵r̵ ̵W̵a̵r̵s̵ ̵A̵P̵I̵](https://swapi.dev/) | Option Not available
+- [NBA API](https://www.balldontlie.io/#introduction) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge/tree/ball-api)
+- [Chuck Norris API](https://www.balldontlie.io/#introduction) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge/tree/chuck-api)
+- [Numbers API](http://numbersapi.com/) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge/tree/numbers-api)
+- [Cat API](https://http.cat/) | [pull & code here](https://github.com/StickerStoke/ss-oct-challenge/tree/cat-api)
 
 Create a Wordpress Plugin that would connect to it. 🚀
 
