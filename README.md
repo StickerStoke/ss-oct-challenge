@@ -29,3 +29,9 @@ Create a Wordpress Plugin that would connect to it. 🚀
 - [VS CODE](https://code.visualstudio.com/)
 - [POSTMAN](https://www.postman.com/)
 - [WP CODEX](https://codex.wordpress.org/Main_Page)
+### Deck of Cards
+### Steps for use the plugin
+1) Locate the «Cards wigdet» plugin on Plugins > Installed Plugins and click on the «Activate» option
+2) Go to Edit Page > Widgets
+3) Add the Widget named «Cards from Cards API»
+4) Input the title and number of cards to show
