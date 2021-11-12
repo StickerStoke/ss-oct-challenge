@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .columna {
+    float: left;
+    width: 50%;
+    padding-right: 5px;
+  }
+  
+  .fila::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  img {
+     width: 100%;
+  }
